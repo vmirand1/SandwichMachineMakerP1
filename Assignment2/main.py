@@ -1,6 +1,6 @@
-from Assignment2 import data
+import data
 from SandwichMaker import SandwichMaker
-from Assignment2.cashier import Cashier
+from cashier import Cashier
 
 # Make an instance of other classes here
 resources = data.resources
